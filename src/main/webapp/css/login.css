@@ -1,0 +1,17 @@
+.form-control {
+    margin-bottom: 20px;
+}
+.col-md-6 {
+    margin-top: 1em;
+}
+@font-face {
+    font-family: LobsterTwo-Regular;
+    src: url("./fonts/LobsterTwo-Regular.otf");
+}
+.sign_in_heading{
+    font-family: LobsterTwo-Regular;
+    color: white;
+}
+#error_info_id{
+    color: red;
+}
